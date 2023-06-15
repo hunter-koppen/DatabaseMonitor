@@ -25,4 +25,4 @@ This module will only work for Postgres in the cloud or when running a restored 
 - Add some useful runtime graphs
 
 ## Issues, suggestions and feature requests
-https://github.com/hunter-koppen/DBSizeChecker/issues
+https://github.com/hunter-koppen/DatabaseMonitor/issues
