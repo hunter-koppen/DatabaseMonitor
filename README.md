@@ -1,4 +1,4 @@
-## Database Size Checker
+## Database Monitor
 A module to quickly check the sizes of the database tables during runtime and set alerts if the tablesize becomes to big.
 
 ## Features
@@ -14,7 +14,7 @@ A module to quickly check the sizes of the database tables during runtime and se
 3. Add the SNIP_TableSizes snippet to a page
 4. Run the app and click on the Get Sizes button.
 
-Optional:
+*Optional:*
 Set warning and critical thresholds for the tables, if crossed it will either log a warning or critical message and change the table status.
 
 ## Import notes
