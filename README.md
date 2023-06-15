@@ -20,5 +20,9 @@ Set warning and critical thresholds for the tables, if crossed it will either lo
 ## Import notes
 This module will only work for Postgres in the cloud or when running a restored postgres database locally!
 
+## Future features
+- Easy way to perform vacuum actions
+- Add some useful runtime graphs
+
 ## Issues, suggestions and feature requests
 https://github.com/hunter-koppen/DBSizeChecker/issues
